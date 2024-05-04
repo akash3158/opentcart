@@ -1,0 +1,55 @@
+18:35:49.475 [main] INFO  testCase.Tc_002_LoginTest - entering login page 
+18:35:49.496 [main] INFO  testCase.Tc_002_LoginTest - Entering email and password
+18:35:52.498 [main] INFO  testCase.Tc_002_LoginTest - clicked on login Button
+18:35:52.504 [main] INFO  testCase.Tc_002_LoginTest - enterd MyAccount page
+18:35:52.768 [main] INFO  testCase.Tc_002_LoginTest - Login Test passed
+18:35:52.769 [main] INFO  testCase.Tc_002_LoginTest - Validating My account text is Displyed 
+18:35:54.478 [main] INFO  testCase.Tc_002_LoginTest - clicked on logOut link
+18:35:54.479 [main] INFO  testCase.Tc_002_LoginTest - **** Finished Tc_002_LoginTest ****
+18:41:08.816 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Acer\eclipse-workspace New\OpenCart_project\final.xml"
+18:42:37.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Acer\eclipse-workspace New\OpenCart_project\final.xml"
+18:46:45.541 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Acer\eclipse-workspace New\OpenCart_project\final.xml"
+18:47:02.686 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** Starting Tc_001_MyAccountRigstrationTest ****
+18:47:02.688 [main] DEBUG testCase.Tc_001_MyAccountRigstration - Application log started
+18:47:04.372 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on MyAccount Link 
+18:47:06.748 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on Register Link 
+18:47:06.749 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating expecting  Title
+18:47:06.947 [main] INFO  testCase.Tc_001_MyAccountRigstration - On Page of Registration
+18:47:06.948 [main] INFO  testCase.Tc_001_MyAccountRigstration - Entering customer details..
+18:47:13.100 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on continue button
+18:47:18.209 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating Expecting Message
+18:47:18.209 [main] DEBUG testCase.Tc_001_MyAccountRigstration - application logs end.......
+18:47:18.209 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** finished TC_001_AccountRegistrationTest  *****
+18:47:25.571 [main] INFO  testCase.Tc_002_LoginTest - **** starting Tc_002_LoginTest... ****
+18:47:25.572 [main] DEBUG testCase.Tc_002_LoginTest -  capturing application debug log....
+18:47:26.003 [main] INFO  testCase.Tc_002_LoginTest - Clicked on myAccount link
+18:47:27.592 [main] INFO  testCase.Tc_002_LoginTest - clicked on login link
+18:47:27.638 [main] INFO  testCase.Tc_002_LoginTest - entering login page 
+18:47:27.638 [main] INFO  testCase.Tc_002_LoginTest - Entering email and password
+18:47:30.047 [main] INFO  testCase.Tc_002_LoginTest - clicked on login Button
+18:47:30.076 [main] INFO  testCase.Tc_002_LoginTest - enterd MyAccount page
+18:47:30.229 [main] INFO  testCase.Tc_002_LoginTest - Login Test passed
+18:47:30.229 [main] INFO  testCase.Tc_002_LoginTest - Validating My account text is Displyed 
+18:47:31.671 [main] INFO  testCase.Tc_002_LoginTest - clicked on logOut link
+18:47:31.675 [main] INFO  testCase.Tc_002_LoginTest - **** Finished Tc_002_LoginTest ****
+18:51:57.064 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Acer\eclipse-workspace New\OpenCart_project\final.xml"
+18:52:10.153 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** Starting Tc_001_MyAccountRigstrationTest ****
+18:52:10.154 [main] DEBUG testCase.Tc_001_MyAccountRigstration - Application log started
+18:52:10.601 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on MyAccount Link 
+18:52:12.498 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on Register Link 
+18:52:12.499 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating expecting  Title
+18:52:12.572 [main] INFO  testCase.Tc_001_MyAccountRigstration - On Page of Registration
+18:52:12.572 [main] INFO  testCase.Tc_001_MyAccountRigstration - Entering customer details..
+18:52:18.747 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on continue button
+18:52:23.860 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating Expecting Message
+18:52:23.860 [main] DEBUG testCase.Tc_001_MyAccountRigstration - application logs end.......
+18:52:23.861 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** finished TC_001_AccountRegistrationTest  *****
+18:52:30.206 [main] INFO  testCase.Tc_002_LoginTest - **** starting Tc_002_LoginTest... ****
+18:52:30.207 [main] DEBUG testCase.Tc_002_LoginTest -  capturing application debug log....
+18:52:30.501 [main] INFO  testCase.Tc_002_LoginTest - Clicked on myAccount link
+18:52:32.061 [main] INFO  testCase.Tc_002_LoginTest - clicked on login link
+18:52:32.068 [main] INFO  testCase.Tc_002_LoginTest - entering login page 
+18:52:32.069 [main] INFO  testCase.Tc_002_LoginTest - Entering email and password
+18:52:34.408 [main] INFO  testCase.Tc_002_LoginTest - clicked on login Button
+18:52:34.436 [main] INFO  testCase.Tc_002_LoginTest - enterd MyAccount page
+18:52:34.655 [main] INFO  testCase.Tc_002_LoginTest - Login Test passed

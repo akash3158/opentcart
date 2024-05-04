@@ -1,0 +1,52 @@
+19:57:57.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:57.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:57.676 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:57.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:57.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:57.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:57.793 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:57.840 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:57.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:57.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:57.897 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:57.999 [main] INFO  testCase.Tc_003_LoginDDT - **** starting Tc_002_LoginDDT... ****
+19:57:58.000 [main] DEBUG testCase.Tc_003_LoginDDT -  capturing application debug log....
+19:57:58.389 [main] INFO  testCase.Tc_003_LoginDDT - Clicked on myAccount link
+19:57:59.976 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login link
+19:57:59.990 [main] INFO  testCase.Tc_003_LoginDDT - entering login page 
+19:57:59.991 [main] INFO  testCase.Tc_003_LoginDDT - Entering email and password
+19:58:05.783 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login Button
+19:58:05.815 [main] INFO  testCase.Tc_003_LoginDDT - enterd MyAccount page
+19:58:06.082 [main] INFO  testCase.Tc_003_LoginDDT - Login Test passed
+19:58:09.203 [main] INFO  testCase.Tc_003_LoginDDT - **** Finished Tc_002_LoginDDT ****
+19:58:09.246 [main] INFO  testCase.Tc_003_LoginDDT - **** starting Tc_002_LoginDDT... ****
+19:58:09.269 [main] DEBUG testCase.Tc_003_LoginDDT -  capturing application debug log....
+19:58:09.506 [main] INFO  testCase.Tc_003_LoginDDT - Clicked on myAccount link
+19:58:10.861 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login link
+19:58:10.890 [main] INFO  testCase.Tc_003_LoginDDT - entering login page 
+19:58:10.890 [main] INFO  testCase.Tc_003_LoginDDT - Entering email and password
+19:58:12.965 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login Button
+19:58:12.976 [main] INFO  testCase.Tc_003_LoginDDT - enterd MyAccount page
+19:58:23.102 [main] INFO  testCase.Tc_003_LoginDDT - **** Finished Tc_002_LoginDDT ****
+19:58:23.111 [main] INFO  testCase.Tc_003_LoginDDT - **** starting Tc_002_LoginDDT... ****
+19:58:23.111 [main] DEBUG testCase.Tc_003_LoginDDT -  capturing application debug log....
+19:58:23.296 [main] INFO  testCase.Tc_003_LoginDDT - Clicked on myAccount link
+19:58:24.641 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login link
+19:58:24.643 [main] INFO  testCase.Tc_003_LoginDDT - entering login page 
+19:58:24.644 [main] INFO  testCase.Tc_003_LoginDDT - Entering email and password
+19:58:26.626 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login Button
+19:58:26.628 [main] INFO  testCase.Tc_003_LoginDDT - enterd MyAccount page
+19:58:36.670 [main] INFO  testCase.Tc_003_LoginDDT - **** Finished Tc_002_LoginDDT ****
+19:58:36.679 [main] INFO  testCase.Tc_003_LoginDDT - **** starting Tc_002_LoginDDT... ****
+19:58:36.679 [main] DEBUG testCase.Tc_003_LoginDDT -  capturing application debug log....
+19:58:36.859 [main] INFO  testCase.Tc_003_LoginDDT - Clicked on myAccount link
+19:58:38.015 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login link
+19:58:38.018 [main] INFO  testCase.Tc_003_LoginDDT - entering login page 
+19:58:38.018 [main] INFO  testCase.Tc_003_LoginDDT - Entering email and password
+19:58:40.052 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login Button
+19:58:40.056 [main] INFO  testCase.Tc_003_LoginDDT - enterd MyAccount page
+19:58:50.151 [main] INFO  testCase.Tc_003_LoginDDT - **** Finished Tc_002_LoginDDT ****
+19:58:50.160 [main] INFO  testCase.Tc_003_LoginDDT - **** starting Tc_002_LoginDDT... ****
+19:58:50.161 [main] DEBUG testCase.Tc_003_LoginDDT -  capturing application debug log....
+19:58:50.346 [main] INFO  testCase.Tc_003_LoginDDT - Clicked on myAccount link
+19:58:51.548 [main] INFO  testCase.Tc_003_LoginDDT - clicked on login link

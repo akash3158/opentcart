@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+
+
+	<test thread-count="5" name="Test">
+			<parameter name="os" value="Window"></parameter>
+			<parameter name="browser" value="chrome"></parameter>
+			<groups>
+				<run>
+					<!--<include name="sanity"></include>-->
+					<!--<include name="regression"></include>-->
+					 <include name="master"></include> 
+					<!-- <exclude name=""></exclude> -->
+				</run>
+			</groups>
+		<classes>
+			        <class name="testCase.Tc_001_MyAccountRigstration" />
+			        <class name="testCase.Tc_002_LoginTest" />
+			<!-- <class name="testCase.Tc_003_LoginDDT" />-->
+		</classes>
+	</test> <!--
+	                   Test -->
+</suite> <!--
+Suite -->

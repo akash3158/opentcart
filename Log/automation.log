@@ -1,0 +1,27 @@
+18:52:34.655 [main] INFO  testCase.Tc_002_LoginTest - Validating My account text is Displyed 
+18:52:36.426 [main] INFO  testCase.Tc_002_LoginTest - clicked on logOut link
+18:52:36.428 [main] INFO  testCase.Tc_002_LoginTest - **** Finished Tc_002_LoginTest ****
+10:23:53.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Acer\eclipse-workspace New\OpenCart_project\final.xml"
+10:24:18.703 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** Starting Tc_001_MyAccountRigstrationTest ****
+10:24:18.704 [main] DEBUG testCase.Tc_001_MyAccountRigstration - Application log started
+10:24:19.303 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on MyAccount Link 
+10:24:23.949 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on Register Link 
+10:24:23.950 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating expecting  Title
+10:24:24.062 [main] INFO  testCase.Tc_001_MyAccountRigstration - On Page of Registration
+10:24:24.063 [main] INFO  testCase.Tc_001_MyAccountRigstration - Entering customer details..
+10:24:30.439 [main] INFO  testCase.Tc_001_MyAccountRigstration - clicked on continue button
+10:24:35.530 [main] INFO  testCase.Tc_001_MyAccountRigstration - validating Expecting Message
+10:24:35.531 [main] DEBUG testCase.Tc_001_MyAccountRigstration - application logs end.......
+10:24:35.531 [main] INFO  testCase.Tc_001_MyAccountRigstration - **** finished TC_001_AccountRegistrationTest  *****
+10:24:43.116 [main] INFO  testCase.Tc_002_LoginTest - **** starting Tc_002_LoginTest... ****
+10:24:43.117 [main] DEBUG testCase.Tc_002_LoginTest -  capturing application debug log....
+10:24:43.445 [main] INFO  testCase.Tc_002_LoginTest - Clicked on myAccount link
+10:24:45.304 [main] INFO  testCase.Tc_002_LoginTest - clicked on login link
+10:24:45.334 [main] INFO  testCase.Tc_002_LoginTest - entering login page 
+10:24:45.335 [main] INFO  testCase.Tc_002_LoginTest - Entering email and password
+10:24:47.886 [main] INFO  testCase.Tc_002_LoginTest - clicked on login Button
+10:24:47.915 [main] INFO  testCase.Tc_002_LoginTest - enterd MyAccount page
+10:24:48.097 [main] INFO  testCase.Tc_002_LoginTest - Login Test passed
+10:24:48.097 [main] INFO  testCase.Tc_002_LoginTest - Validating My account text is Displyed 
+10:24:49.719 [main] INFO  testCase.Tc_002_LoginTest - clicked on logOut link
+10:24:49.719 [main] INFO  testCase.Tc_002_LoginTest - **** Finished Tc_002_LoginTest ****
